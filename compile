@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -Wall palindrome.c -o palindrome
+gcc -Wall rot13.c -o rot13
+gcc -Wall pendu.c -o pendu
